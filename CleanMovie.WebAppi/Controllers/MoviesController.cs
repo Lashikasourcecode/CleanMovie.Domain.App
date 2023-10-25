@@ -30,11 +30,7 @@ namespace CleanMovie.WebAppi.Controllers
             return Ok(moviesFromServers);
         }
 
-        //[HttpGet]
-        //public ActionResult<List<Movie>> Movie()
-        //{
-        //    return Ok(new List<Movie>());
-        //}
+        
 
        
 
